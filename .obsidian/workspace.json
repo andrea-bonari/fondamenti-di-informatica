@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "b638abef423c5066",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1aef7a2d5963589",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "deaecb4a4352b900",
+            "type": "leaf",
+            "state": {
+              "type": "home-tab-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e92f34d2c6abb141",
+    "type": "split",
+    "children": [
+      {
+        "id": "d63854fc8bfbb0b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "532fb42e3a52481d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "485ff16c2d503173",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c19a41aa06520e74",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "32cac140770915f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "d80c76a01c0ce82e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81765b5c62ee2b44",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a84cd80e86d2bd36",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5543aaae65127ac0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "75422d6a0eaa9716",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "deaecb4a4352b900",
+  "lastOpenFiles": [
+    "Linguaggio C89 ANSI/Struttura del linguaggio e compilazione.md",
+    "Index.md",
+    "Algoritmi/Algoritmi.md",
+    "Introduzione al corso.md",
+    "Modello Von Neumann.md",
+    "Rappresentazione dell'informazione/Informazione e codice binario.md",
+    "Calcolatore e software/Il sistema operativo.md",
+    "Calcolatore e software/Architettura dell'elaboratore.md",
+    "Data/Pasted image 20240524102428.png",
+    "Data/Pasted image 20240524102407.png",
+    "Data/Pasted image 20240524102358.png",
+    "Linguaggio C89 ANSI",
+    "Algoritmi",
+    "Rappresentazione dell'informazione",
+    "Calcolatore e software",
+    "Esercizi/23-09-21.md",
+    "Esercizi/23-10-17/1-test.c",
+    "Esercizi/23-10-17/a.out",
+    "Esercizi/23-10-17/3.c",
+    "Esercizi/23-10-17/2.c",
+    "Esercizi/23-10-17/1.c",
+    "Esercizi/23-10-17",
+    "Esercizi/03-10-2023.md",
+    "Data/rM drawing 2023-09-21-21.12.34.png",
+    "Data/rM drawing 2023-09-21-19.40.07.png",
+    "Data/rM drawing 2023-09-21-19.40.26.png",
+    "Data/Pasted image 20230918113255.png",
+    "Data/rM drawing 2023-09-21-14.59.47.png",
+    "Data/rM drawing 2023-09-21-15.36.43.png",
+    "Data/rM drawing 2023-09-21-16.17.06.png",
+    "rM drawing 2023-09-21-15.30.02.png.md",
+    "s.md"
+  ]
+}
