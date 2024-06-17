@@ -11,8 +11,12 @@
             "id": "deaecb4a4352b900",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Index.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -141,18 +145,19 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
   "active": "deaecb4a4352b900",
   "lastOpenFiles": [
-    "Linguaggio C89 ANSI/Struttura del linguaggio e compilazione.md",
+    "Calcolatore e software/Il sistema operativo.md",
     "Index.md",
+    "Rappresentazione dell'informazione/Informazione e codice binario.md",
+    "Linguaggio C89 ANSI/Struttura del linguaggio e compilazione.md",
     "Algoritmi/Algoritmi.md",
     "Introduzione al corso.md",
     "Modello Von Neumann.md",
-    "Rappresentazione dell'informazione/Informazione e codice binario.md",
-    "Calcolatore e software/Il sistema operativo.md",
     "Calcolatore e software/Architettura dell'elaboratore.md",
     "Data/Pasted image 20240524102428.png",
     "Data/Pasted image 20240524102407.png",

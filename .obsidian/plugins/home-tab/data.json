@@ -25,7 +25,15 @@
   "recentFilesStore": [
     {
       "filepath": "Index.md",
-      "timestamp": 1716540419795
+      "timestamp": 1718609956776
+    },
+    {
+      "filepath": "Calcolatore e software/Il sistema operativo.md",
+      "timestamp": 1718609953982
+    },
+    {
+      "filepath": "Rappresentazione dell'informazione/Informazione e codice binario.md",
+      "timestamp": 1718609949509
     },
     {
       "filepath": "Algoritmi/Algoritmi.md",
@@ -34,10 +42,6 @@
     {
       "filepath": "Introduzione al corso.md",
       "timestamp": 1716539680736
-    },
-    {
-      "filepath": "Rappresentazione dell'informazione/Informazione e codice binario.md",
-      "timestamp": 1716539647470
     }
   ],
   "starredFileStore": [],
