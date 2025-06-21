@@ -7,9 +7,9 @@ Tra le applicazioni comuni del linguaggio C vi sono:
 - Applicazioni Desktop (Interfacce utente, Gestione file, Elaborazione dati)
 
 >[!warning]
->In questo corso andremo a ricoprire lo standard c89
+>In questo corso andremo a ricoprire lo standard c89.
 
 ### Caratteristiche Principali
 >[!note]
->Il linguaggio C permette la compilazione diretta in codice macchina, una gestione diretta della memoria, un minimo overhead di runtime e un accesso diretto all'hardware
+>Il linguaggio C permette la compilazione diretta in codice macchina, una gestione diretta della memoria, un minimo overhead di runtime e un accesso diretto all'hardware.
 

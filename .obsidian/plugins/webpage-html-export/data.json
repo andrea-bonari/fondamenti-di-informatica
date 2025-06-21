@@ -9,10 +9,8 @@
     "inlineHTML": false,
     "exportPath": "/output",
     "filesToExport": [
-      "Algoritmi",
       "Calcolatore e software",
       "Linguaggio C",
-      "Rappresentazione dell'informazione",
       "Index.md",
       "Introduzione al corso.md"
     ],
